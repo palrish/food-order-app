@@ -1,0 +1,22 @@
+[
+  {
+    "items": [
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "endCoding",
+      "email": "endCoding@gmail.com",
+      "street": "endStreet",
+      "postal-code": "1024",
+      "city": "endCity"
+    },
+    "id": "893.6797454259795"
+  }
+]
